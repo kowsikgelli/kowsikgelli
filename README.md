@@ -85,7 +85,7 @@ Here are some ideas to get you started:
 
 <a href = "https://www.linkedin.com/in/kowsikgelli/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/CryptoKowsik"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-  <a href = "kowsikgelli@gmail.com"> <img src="https://img.icons8.com/color/48/000000/gmail-new.png"/> </a>
+  <a href = "kowsikgelliie@gmail.com"> <img src="https://img.icons8.com/color/48/000000/gmail-new.png"/> </a>
 
 </p>
 
