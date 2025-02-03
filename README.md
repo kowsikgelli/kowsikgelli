@@ -21,13 +21,16 @@ Here are some ideas to get you started:
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning (full stack with aws) and (blockchain and solidity)
-
-- 👯 I’m looking to collaborate on **OpenSource Projects**
-
-- 📫 You can reach me on **[LinkedIn](https://www.linkedin.com/in/kowsikgelli/)**
-
-- ⚡ I am an investor
+- 👨‍💻 **Full-Stack Developer** with expertise in cloud technologies, specializing in **AWS**, **Azure**, and modern web development frameworks like **React**, **Node.js**, and **Spring Boot**.
+- ☁️ Experienced in architecting scalable, production-grade cloud solutions using **serverless frameworks** and AI-driven development.
+- 🤖 Passionate about integrating **AI/ML** into applications, including building intelligent chatbots and analytics tools leveraging **OpenAI's GPT-3.5** and **RAG (Retrieval-Augmented Generation)**.
+- 🔧 Skilled in **CI/CD implementation**, performance optimization, and test-driven development (TDD) to deliver high-quality software.
+- 🌐 Currently pursuing  **Master’s in Cloud Computing** at [National College of Ireland](https://www.ncirl.ie/) (Dublin) to deepen my expertise in cloud architectures and distributed systems.
+- 💡 Certified **[AWS Solutions Architect – Associate](https://www.credly.com/badges/93708c8a-3c4e-4628-a2c5-146aef76816c/public_url)**, with hands-on experience designing cost-effective, secure, and resilient cloud architectures.
+- 📈 Experienced in developing data-driven applications, optimizing APIs with **Redis caching**, and implementing event-driven architectures using **Apache Kafka**.
+- 🤝 Led Agile teams, mentored junior developers, and collaborated with cross-functional teams to deliver impactful projects.
+- 🎯 Actively exploring **blockchain technology** and **Solidity** to expand my skill set in decentralized applications (dApps).
+- 📫 Reach me via **[LinkedIn](https://www.linkedin.com/in/kowsikgelli/)** or email: **kowsikgelliie@gmail.com**.
 
 
 ## 🚀 Languages and Tools:
@@ -43,6 +46,7 @@ Here are some ideas to get you started:
   <a href="https://ethereum.org/en/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/ethereum.png"/> </a>
       <a href="https://aws.amazon.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/> </a>
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
+    <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://www.yessinfotech.com/wp-content/uploads/2019/11/spring-boot-logo.png"/> </a>
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
