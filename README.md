@@ -46,7 +46,7 @@ Here are some ideas to get you started:
   <a href="https://ethereum.org/en/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/ethereum.png"/> </a>
       <a href="https://aws.amazon.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/> </a>
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
-    <a href="https://spring.io/projects/spring-boot" target="_blank"> <img width="65" height="45" src="https://www.yessinfotech.com/wp-content/uploads/2019/11/spring-boot-logo.png"/> </a>
+    <a href="https://spring.io/projects/spring-boot" target="_blank"> <img width="85" height="45" src="https://www.yessinfotech.com/wp-content/uploads/2019/11/spring-boot-logo.png"/> </a>
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
