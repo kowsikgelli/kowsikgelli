@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - 👨‍💻 **Full-Stack Developer** with expertise in cloud technologies, specializing in **AWS**, **Azure**, and modern web development frameworks like **React**, **Node.js**, and **Spring Boot**.
 - ☁️ Experienced in architecting scalable, production-grade cloud solutions using **serverless frameworks** and AI-driven development.
-- 🤖 Passionate about integrating **AI/ML** into applications, including building intelligent chatbots and analytics tools leveraging **OpenAI's GPT-3.5** and **RAG (Retrieval-Augmented Generation)**.
+- 🤖 Passionate about integrating **AI/ML** into applications, including building intelligent chatbots and analytics tools leveraging Large Language Models like **OpenAI's GPT and Claude sonnet** and **RAG (Retrieval-Augmented Generation)**.
 - 🔧 Skilled in **CI/CD implementation**, performance optimization, and test-driven development (TDD) to deliver high-quality software.
 - 🌐 Currently pursuing  **Master’s in Cloud Computing** at [National College of Ireland](https://www.ncirl.ie/) (Dublin) to deepen my expertise in cloud architectures and distributed systems.
 - 💡 Certified **[AWS Solutions Architect – Associate](https://www.credly.com/badges/93708c8a-3c4e-4628-a2c5-146aef76816c/public_url)**, with hands-on experience designing cost-effective, secure, and resilient cloud architectures.
