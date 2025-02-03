@@ -67,7 +67,7 @@ Here are some ideas to get you started:
     </a>
 </p>
 
-## 📊 My Github Stats
+<!-- ## 📊 My Github Stats
 
   <br/>
     <a href="https://github.com/kowsikgelli/github-readme-stats"><img alt="Kowsik Gelli's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kowsikgelli&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
@@ -83,6 +83,7 @@ Here are some ideas to get you started:
 
 <br/>
 <br/>
+-->
 
 ## Connect with me:
 <p align="left">
